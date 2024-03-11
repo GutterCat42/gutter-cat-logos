@@ -1,7 +1,9 @@
 # All the gutter cats!!!
 For historical posterity.
 
-Also, this isn't the most organised repository at the moment. In fact, it's rather incomplete. I will clean it up one day. Maybe.
+Maybe I'll even create a gutter cat policy/regulation/license eventually. Or even add the origin story of the gutter cat at some point? Or more never-before-seen-on-dvd reveals?
+
+NOTE: this isn't the most organised repository at the moment. In fact, it's rather incomplete. I will clean it up one day. Maybe.
 
 ## blobs-with-guns:
 Yeah that's the 'gutter cat with a gun' that I used in my game, Blobs with Guns.
