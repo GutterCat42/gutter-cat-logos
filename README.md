@@ -8,8 +8,8 @@ Maybe I'll also create a gutter cat policy/regulation/license eventually. Or eve
 ## Software I used:
 (most but not all of it)
 - [Paint.net](https://www.getpaint.net/)
-- [Piskel](https://www.piskelapp.com/) [(its open source yum yum)](https://github.com/piskelapp/piskel)
-- [Inkscape](https://inkscape.org/) [(also open source yayyyy)](https://github.com/inkscape/inkscape)
+- [Piskel](https://www.piskelapp.com/) source code: [here](https://github.com/piskelapp/piskel)
+- [Inkscape](https://inkscape.org/) source code: [here](https://github.com/inkscape/inkscape)
 
 ## Various folders:
 
